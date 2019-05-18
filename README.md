@@ -4,6 +4,7 @@ Darknet for Windows10, cuda9.1,vs2017,opencv3.4.0 which had been compiled
 ------
 
 ## 使用方法
+在`darknet-master\build\darknet\x64`下创建一个`.cmd`文件，填入如下格式的命令
 ### 训练
 格式：
 ```
